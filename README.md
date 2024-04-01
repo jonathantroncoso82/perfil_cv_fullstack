@@ -52,6 +52,12 @@ Janeiro de 2006 - Junho de 2012
 - Diploma em Ciência da Computação na Estacio (Brasil) (Ensino Superior)
 - Diploma em Técnico em Programação no INACAP (Chile) (Ensino Tecnico)
 
+## Cursos
+- PMP gerenciamento de projetos (Trainning Education Services) Presencial
+- ITIL V4 e COBIT (Trainning Education Services) Presencial
+- TOGAF e BIAN (UDACITY) Remoto
+- Scrum Master (UDACITY) Remoto
+  
 ## Habilidades Técnicas
 
 - **Linguagens de Programação:** Java, Kotlin, Python, JavaScript (NodeJS), C#
