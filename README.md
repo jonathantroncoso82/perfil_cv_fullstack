@@ -14,6 +14,16 @@ Março de 2020 - Fevereiro de 2024
 - Responsável pela arquitetura de soluções full stack.
 - Gerenciou a integração e automação de operações de DevOps.
 
+- ## Habilidades Técnicas
+
+- **Arquitetura de Software:** Design de Microserviços, Arquiteturas Orientadas a Serviços (SOA), Padrões de Design
+- **Linguagens de Programação:** Java, Kotlin, Python, JavaScript, C#
+- **Frameworks e Tecnologias:** Spring Boot, .NET, React, Angular, Docker, Kubernetes
+- **Bancos de Dados:** Oracle, MongoDB, PostgreSQL, SQL Server
+- **Cloud & DevOps:** AWS, Azure, Google Cloud, CI/CD, Terraform
+- **Metodologias:** Agile, Scrum, DevOps, TDD
+ 
+
 ### Santander Brasil - São Paulo, Brasil (Presencial)
 **Especialista em Desenvolvimento Full Stack**  
 Março de 2018 - Março de 2020
@@ -21,12 +31,30 @@ Março de 2018 - Março de 2020
 - Desenvolveu e otimizou aplicações móveis e web.
 - Implementou práticas de CI/CD e gestão de infraestrutura como código (IaC).
 
+- ## Habilidades Técnicas
+
+- **Arquitetura de Software:** Design de Microserviços, Arquiteturas Orientadas a Serviços (SOA), Padrões de Design
+- **Linguagens de Programação:** Java, Kotlin, Python, JavaScript, C#
+- **Frameworks e Tecnologias:** Spring Boot, .NET, React, Angular, Docker, Kubernetes
+- **Bancos de Dados:** Oracle, MongoDB, PostgreSQL, SQL Server
+- **Cloud & DevOps:** AWS, Azure, Google Cloud, CI/CD, Terraform
+- **Metodologias:** Agile, Scrum, DevOps, TDD
+
+
 ### Repom S.A. - São Paulo, Brasil (Presencial)
 **Especialista em Desenvolvimento Full Stack**  
 Janeiro de 2012 - Março de 2018
 - Liderou a equipe de desenvolvimento dos produtos Frete e Pedágio.
 - Orquestrou serviços e integrações complexas.
 - Garantiu a certificação PCI Compliance para aplicações de pagamento.
+
+- ## Habilidades Técnicas
+
+- **Arquitetura de Software:** Design de Microserviços, Arquiteturas Orientadas a Serviços (SOA), Padrões de Design
+- **Linguagens de Programação:** C#, .NET
+- **Bancos de Dados:** Oracle, SQL Server
+- **Cloud & DevOps:** Azure
+- **Metodologias:** Agile, Scrum
 
 ## Educação
 
