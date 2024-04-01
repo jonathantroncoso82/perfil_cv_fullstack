@@ -7,58 +7,33 @@ Especialista em desenvolvimento full stack com mais de 10 anos de experiência n
 ## Experiência Profissional
 
 ### Omni Conectado - São Paulo, Brasil (Remoto)
+
 **Especialista em Desenvolvimento Full Stack**  
 Março de 2020 - Fevereiro de 2024
-- Liderou a migração e implementação de soluções corporativas, com foco em aplicações web e móveis.
-- Projetou e desenvolveu aplicativos móveis nativos e híbridos.
-- Responsável pela arquitetura de soluções full stack.
-- Gerenciou a integração e automação de operações de DevOps.
-
-- ## Habilidades Técnicas
-
-- **Arquitetura de Software:** Design de Microserviços, Arquiteturas Orientadas a Serviços (SOA), Padrões de Design
-- **Linguagens de Programação:** Java, Kotlin, Python, JavaScript, C#
-- **Frameworks e Tecnologias:** Spring Boot, .NET, React, Angular, Docker, Kubernetes
-- **Bancos de Dados:** Oracle, MongoDB, PostgreSQL, SQL Server
-- **Cloud & DevOps:** AWS, Azure, Google Cloud, CI/CD, Terraform
-- **Metodologias:** Agile, Scrum, DevOps, TDD
- 
+- Liderou a migração e implementação de soluções corporativas, com foco em aplicações web e móveis, utilizando Java, SpringBoot, Kotlin, Python, NodeJS, Angular e ReactJS.
+- Projetou e desenvolveu aplicativos móveis nativos e híbridos para financiamento de carros e motos, além de um Super App bancário, empregando Kotlin, Swift, React Native e Flutter.
+- Responsável pela arquitetura de soluções full stack, incluindo design de banco de dados (Oracle, MongoDB, PostgreSQL) e implementação de padrões MVC, SOLID, DDD e TDD.
+- Gerenciou a integração e automação de operações de DevOps em ambientes AWS, Azure e Google Cloud, garantindo a escalabilidade e performance das aplicações.
 
 ### Santander Brasil - São Paulo, Brasil (Presencial)
+
 **Especialista em Desenvolvimento Full Stack**  
 Março de 2018 - Março de 2020
-- Contribuiu com a modernização de sistemas bancários.
-- Desenvolveu e otimizou aplicações móveis e web.
-- Implementou práticas de CI/CD e gestão de infraestrutura como código (IaC).
-
-- ## Habilidades Técnicas
-
-- **Arquitetura de Software:** Design de Microserviços, Arquiteturas Orientadas a Serviços (SOA), Padrões de Design
-- **Linguagens de Programação:** Java, Kotlin, Python, JavaScript, C#
-- **Frameworks e Tecnologias:** Spring Boot, .NET, React, Angular, Docker, Kubernetes
-- **Bancos de Dados:** Oracle, MongoDB, PostgreSQL, SQL Server
-- **Cloud & DevOps:** AWS, Azure, Google Cloud, CI/CD, Terraform
-- **Metodologias:** Agile, Scrum, DevOps, TDD
-
+- Contribuiu com a modernização de sistemas bancários, incluindo a migração de aplicações Delphi e VB para Spring Boot e Angular, aplicando o conceito de Micro-Front-End.
+- Desenvolveu e otimizou aplicações móveis e web utilizando tecnologias como Java, Spring Boot, Kotlin, Swift, Angular e React, além de trabalhar com Big Data (Apache Spark, Hadoop).
+- Implementou práticas de CI/CD e gestão de infraestrutura como código (IaC) em AWS, otimizando a entrega e manutenção de software.
 
 ### Repom S.A. - São Paulo, Brasil (Presencial)
+
 **Especialista em Desenvolvimento Full Stack**  
 Janeiro de 2012 - Março de 2018
-- Liderou a equipe de desenvolvimento dos produtos Frete e Pedágio.
-- Orquestrou serviços e integrações complexas.
-- Garantiu a certificação PCI Compliance para aplicações de pagamento.
-
-- ## Habilidades Técnicas
-
-- **Arquitetura de Software:** Design de Microserviços, Arquiteturas Orientadas a Serviços (SOA), Padrões de Design
-- **Linguagens de Programação:** C#, .NET
-- **Bancos de Dados:** Oracle, SQL Server
-- **Cloud & DevOps:** Azure
-- **Metodologias:** Agile, Scrum
+- Liderou a equipe de desenvolvimento dos produtos Frete e Pedágio, responsabilizando-se pela arquitetura de soluções e pelo desenvolvimento de aplicações .NET e NodeJS com Angular.
+- Orquestrou serviços e integrações complexas, utilizando Biztalk Server, Apache Camel e Kafka, para conectar sistemas SAP e Totvs.
+- Garantiu a certificação PCI Compliance para aplicações de pagamento, desenvolvendo soluções seguras e conformes com as normas.
 
 ## Educação
 
-- Diploma relevante em Ciência da Computação ou área correlata
+- Diploma relevante em Ciência da Computação ou área correlata (ajustar de acordo com a formação real)
 
 ## Habilidades Técnicas
 
@@ -73,5 +48,5 @@ Janeiro de 2012 - Março de 2018
 ## Idiomas
 
 - Português (Nativo)
-- Inglês (Intermediario)
 - Espanhol (Nativo)
+- Inglês (Intermediário)
