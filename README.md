@@ -45,4 +45,5 @@ Janeiro de 2012 - Março de 2018
 ## Idiomas
 
 - Português (Nativo)
-- Inglês (Fluente)
+- Inglês (Intermediario)
+- Espanhol (Nativo)
