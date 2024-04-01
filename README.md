@@ -31,9 +31,24 @@ Janeiro de 2012 - Março de 2018
 - Orquestrou serviços e integrações complexas, utilizando Biztalk Server, Apache Camel e Kafka, para conectar sistemas SAP e Totvs.
 - Garantiu a certificação PCI Compliance para aplicações de pagamento, desenvolvendo soluções seguras e conformes com as normas.
 
+### SONDA - Santiago, Região Metropolitana de Santiago, Chile (Presencial)
+
+**Consultor SAP BI**  
+Janeiro de 2006 - Junho de 2012
+- Analista de projetos BI para os governos da Colômbia, Argentina, Panamá e Chile.
+- Desenhou DW, Cubos e apoiou setor de negócios na definição e viabilização de KPIs para incluir nos dashboards.
+- Construiu Dashboards utilizando ASP.NET C# e o Back-end utilizando WCF; integrações com sistemas legados.
+- Construção de ETL para integração com sistemas legados e outras fontes de informação.
+- Integração com arquitetura de sistemas (ABAP, Sap Netweaver).
+- Integração de dispositivos móveis com Sap Netweaver e SAP Ecc.
+- Desenvolvimento no SAP ECC and SAP NetWeaver (ABAP OO and Procedural, ALV, Web Dynpro ABAP, Web Services, Field Symbols, RFCs, BAPI, BADI, Systems Integration, Data dictionary, SQL Trace, Transport Management (CTS), Reports, etc.).
+- Programação em Java, ABAP, ABAP-OO, WebDynpro Abap.
+- Integração com os módulos SAP MM e SAP PM.
+
 ## Educação
 
-- Diploma relevante em Ciência da Computação ou área correlata (ajustar de acordo com a formação real)
+- Diploma em Ciência da Computação na Estacio (Brasil) (Ensino Superior)
+- Diploma em Técnico em Programação no INACAP (Chile) (Ensino Tecnico)
 
 ## Habilidades Técnicas
 
