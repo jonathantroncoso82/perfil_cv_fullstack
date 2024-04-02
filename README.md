@@ -2,7 +2,7 @@
 
 ## Perfil Profissional
 
-Especialista em desenvolvimento de software fullstack com mais de 10 anos de experiência na criação e otimização de aplicações web e móveis. Experiente em liderar equipes de desenvolvimento, projetar arquiteturas de software escaláveis e implementar soluções eficazes para atender às necessidades de negócios. Habilidades avançadas em uma ampla gama de tecnologias back-end e front-end, práticas de desenvolvimento ágil e integrações de sistemas complexos.
+Especialista em | IT Architecture | Solutions Architecture | Cloud | AWS | Mobile | com mais de 10 anos de experiência na criação e otimização de aplicações web e móveis. Experiente em liderar equipes de desenvolvimento, projetar arquiteturas de software escaláveis e implementar soluções eficazes para atender às necessidades de negócios. Habilidades avançadas em uma ampla gama de tecnologias back-end e front-end, práticas de desenvolvimento ágil e integrações de sistemas complexos.
 
 Minhas principais competências são o desenvolvimento de software, o desenho de soluções e arquitetura corporativa, o uso de tecnologias como C#, Java, Python, AWS, Hadoop, Spark, blockchain e serverless, e a liderança técnica de equipes e fornecedores externos. Meu objetivo é contribuir para a inovação e a transformação digital do Banco Omni, utilizando as melhores práticas e ferramentas do mercado, e buscando a excelência e a satisfação dos clientes internos e externos.
 
